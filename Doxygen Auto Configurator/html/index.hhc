@@ -1,0 +1,481 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator"><param name="Local" value="namespace_auto___configurator.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_auto___configurator_1_1_properties.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#a3b5ace276dab316266fdf0356793abd5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="resourceCulture"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#abd9a618b3f33ce097be1bb8733689ec5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="resourceMan"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#ab8f7df65c338fe0a4d81920efb8fa463"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Culture"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#ab7c3a4b5421647789c027d1410064e2d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ResourceManager"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#a741658ba7e0064aa155ea405cc46ff2e"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Settings"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="defaultInstance"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html#a6a5032fcb098fdf5213589a35b7c8aac"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Default"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html#a90f8139aa977dad787e623434e7acdfc"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html#aea13fd81c30db95c7e15377a2c30198c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Car"><param name="Local" value="class_auto___configurator_1_1_car.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Car"><param name="Local" value="class_auto___configurator_1_1_car.html#ad5fb11b2a8b1bca9fe24010d38273248"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetOptions"><param name="Local" value="class_auto___configurator_1_1_car.html#a55b191bf313b1e6fd5f5c9f06debafb8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetOrderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#a37dd3c58c80f516562f522ea89a7ebb3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBrand"><param name="Local" value="class_auto___configurator_1_1_car.html#aeeea31148fcf673ce174d63965fb9039"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetOrderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#a2da4a8772e10bf2b687f87381011859b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="_brand"><param name="Local" value="class_auto___configurator_1_1_car.html#afebd997e288cbb7628ae7aa1cd665322"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="_options"><param name="Local" value="class_auto___configurator_1_1_car.html#a8f56a67ced825f4444bb3708acd4a12c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="orderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#aac9bd4f28d4231ef5e70231bcb60bdbc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="usedNumbers"><param name="Local" value="class_auto___configurator_1_1_car.html#ab114bcee2617babc5207589a3c42e5b2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Brand"><param name="Local" value="class_auto___configurator_1_1_car.html#a4b05e44de006757524ad35ce7d94bf55"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CarFactory"><param name="Local" value="class_auto___configurator_1_1_car_factory.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCar"><param name="Local" value="class_auto___configurator_1_1_car_factory.html#ab477a6d24fabc32df0b9f44dacfedc5a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a3907c0e8971c16c2948b7d9934d937a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AjutorToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afb2d74632c1f106697a7a9e7f1034804"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AudiButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a49920c344ee8a34e6fa99f67cda3cf6d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="colorSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5520b8c05ce1261412966e7102aa1551"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DespreToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#acfb058fbb078757eafe6f33c380c766e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a8b7cdea53e91362d78225603341d538a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Draw"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad82f8fa8ebc6d15aba1861685e733189"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abe8f5b520adcce57dfbe610a1d810f27"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbers"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a939e9b4eec986b7b6cf603c9025d6484"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Order_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a481d412fe44dcdb1d6e737ac0ab9dca9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa4c65adeab167771cfe450e4002f6abc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa8aedc24fd7ad0a25dfa7a94b0617188"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WheelSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af8fc64734f834daff561f8e456c050c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ajutorToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab2de7ea36e7ad9725a63c7ffb8de1294"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab58e740f225838e1528103b638687e14"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="bmp"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a37a55271fb623e4d4a878fed74cb3f06"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5b9815cde472f223a3d90ce830d49882"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ae0d2900ea6350fa39e201a140394098c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afaed3d903145934fe74c6e926cf3bf4f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a85c895cc3951e40640e8f278ce33ce76"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="car"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac89ab1694a9e953841a463f35283acda"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="components"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad1f4e61a6ae323f195044b765c09e773"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6b4760a5fcd0032c45a031ead399032a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac2f4624241141f5934db8bf3907bf831"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="despreToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a2131de820daf749a6d33e5a5a689fd7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="factory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a421373a14f1b242a95f4d430702165d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="firma"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac39248457222e8a6be128ab39cc580f8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab9b225a2acdf5e56b2c9345c15ba349d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af1e2d8af8cd405ce76376465e0ad3e1b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="label_History"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a21cd8fd9fee4d2666c140f806eed2996"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="listaComenzi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e7effd8966de1f97e3a83f22f5e4d05"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="menuStrip"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e6d033cf8e4113d7f6ecc44f735f93a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Order"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a01e12c829f213951eabc354276197885"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abff159e713f400dff6fe8b69a93db942"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e25dc350792df63889bc45d6e92f41e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad9ce590bea8907e9a4d24a53ea825a4b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e9fb02ad6e7bbb3c106b29d9ee22e39"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#adce088707fce0f0f67806bc36dd26626"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac76086479b0996c8d252bc8e764c49dc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TextAreaOrderHistory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a91a9ee1a909e39678be3f2b73cb03c75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TextBoxID"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a7eacd88e3269dbebf5ed93f2aee1183c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a345be729bbcbb6056a9fdd961ad862c8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Program"><param name="Local" value="class_auto___configurator_1_1_program.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Main"><param name="Local" value="class_auto___configurator_1_1_program.html#adf0b2b01da3342b8a3d25f0f345e994a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html#a65db45d074fd0f09c04ca73657ed602d"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectTest"><param name="Local" value="namespace_project_test.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguratorTester"><param name="Local" value="class_project_test_1_1_configurator_tester.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CarOptionsTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a88fe4c17e978120ba1e4913eaebe8402"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Compare"><param name="Local" value="class_project_test_1_1_configurator_tester.html#aa0ef4651ba1545c7c27d82c9e8f2c169"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCarTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a7ad3e51a0bedffcb1b71b7fcd48f7297"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCarTest2"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a4bb32164dd5bdefbd7fd43d20c83e6a1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbersTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a96caed18077514c269ba6e9349390cc5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="onlyNumbersTest2"><param name="Local" value="class_project_test_1_1_configurator_tester.html#abe3a3b876a51c73cce1cce95bfa6ca86"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RangeOrderNumber"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a62a20983c568bf7eacc563b6318b3797"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator"><param name="Local" value="namespace_auto___configurator.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_auto___configurator_1_1_properties.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#a3b5ace276dab316266fdf0356793abd5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="resourceCulture"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#abd9a618b3f33ce097be1bb8733689ec5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="resourceMan"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#ab8f7df65c338fe0a4d81920efb8fa463"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Culture"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#ab7c3a4b5421647789c027d1410064e2d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ResourceManager"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#a741658ba7e0064aa155ea405cc46ff2e"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Settings"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="defaultInstance"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html#a6a5032fcb098fdf5213589a35b7c8aac"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Default"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html#a90f8139aa977dad787e623434e7acdfc"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html#aea13fd81c30db95c7e15377a2c30198c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Car"><param name="Local" value="class_auto___configurator_1_1_car.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Car"><param name="Local" value="class_auto___configurator_1_1_car.html#ad5fb11b2a8b1bca9fe24010d38273248"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetOptions"><param name="Local" value="class_auto___configurator_1_1_car.html#a55b191bf313b1e6fd5f5c9f06debafb8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetOrderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#a37dd3c58c80f516562f522ea89a7ebb3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBrand"><param name="Local" value="class_auto___configurator_1_1_car.html#aeeea31148fcf673ce174d63965fb9039"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetOrderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#a2da4a8772e10bf2b687f87381011859b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="_brand"><param name="Local" value="class_auto___configurator_1_1_car.html#afebd997e288cbb7628ae7aa1cd665322"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="_options"><param name="Local" value="class_auto___configurator_1_1_car.html#a8f56a67ced825f4444bb3708acd4a12c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="orderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#aac9bd4f28d4231ef5e70231bcb60bdbc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="usedNumbers"><param name="Local" value="class_auto___configurator_1_1_car.html#ab114bcee2617babc5207589a3c42e5b2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Brand"><param name="Local" value="class_auto___configurator_1_1_car.html#a4b05e44de006757524ad35ce7d94bf55"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CarFactory"><param name="Local" value="class_auto___configurator_1_1_car_factory.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCar"><param name="Local" value="class_auto___configurator_1_1_car_factory.html#ab477a6d24fabc32df0b9f44dacfedc5a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a3907c0e8971c16c2948b7d9934d937a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AjutorToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afb2d74632c1f106697a7a9e7f1034804"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AudiButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a49920c344ee8a34e6fa99f67cda3cf6d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="colorSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5520b8c05ce1261412966e7102aa1551"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DespreToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#acfb058fbb078757eafe6f33c380c766e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a8b7cdea53e91362d78225603341d538a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Draw"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad82f8fa8ebc6d15aba1861685e733189"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abe8f5b520adcce57dfbe610a1d810f27"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbers"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a939e9b4eec986b7b6cf603c9025d6484"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Order_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a481d412fe44dcdb1d6e737ac0ab9dca9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa4c65adeab167771cfe450e4002f6abc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa8aedc24fd7ad0a25dfa7a94b0617188"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WheelSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af8fc64734f834daff561f8e456c050c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ajutorToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab2de7ea36e7ad9725a63c7ffb8de1294"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="audiButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab58e740f225838e1528103b638687e14"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="bmp"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a37a55271fb623e4d4a878fed74cb3f06"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5b9815cde472f223a3d90ce830d49882"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ae0d2900ea6350fa39e201a140394098c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afaed3d903145934fe74c6e926cf3bf4f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a85c895cc3951e40640e8f278ce33ce76"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="car"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac89ab1694a9e953841a463f35283acda"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="components"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad1f4e61a6ae323f195044b765c09e773"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6b4760a5fcd0032c45a031ead399032a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac2f4624241141f5934db8bf3907bf831"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="despreToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a2131de820daf749a6d33e5a5a689fd7e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="factory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a421373a14f1b242a95f4d430702165d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="firma"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac39248457222e8a6be128ab39cc580f8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab9b225a2acdf5e56b2c9345c15ba349d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af1e2d8af8cd405ce76376465e0ad3e1b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="label_History"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a21cd8fd9fee4d2666c140f806eed2996"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="listaComenzi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e7effd8966de1f97e3a83f22f5e4d05"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="menuStrip"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e6d033cf8e4113d7f6ecc44f735f93a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Order"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a01e12c829f213951eabc354276197885"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abff159e713f400dff6fe8b69a93db942"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e25dc350792df63889bc45d6e92f41e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad9ce590bea8907e9a4d24a53ea825a4b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e9fb02ad6e7bbb3c106b29d9ee22e39"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#adce088707fce0f0f67806bc36dd26626"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac76086479b0996c8d252bc8e764c49dc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TextAreaOrderHistory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a91a9ee1a909e39678be3f2b73cb03c75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TextBoxID"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a7eacd88e3269dbebf5ed93f2aee1183c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a345be729bbcbb6056a9fdd961ad862c8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Program"><param name="Local" value="class_auto___configurator_1_1_program.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Main"><param name="Local" value="class_auto___configurator_1_1_program.html#adf0b2b01da3342b8a3d25f0f345e994a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html#a65db45d074fd0f09c04ca73657ed602d"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectTest"><param name="Local" value="namespace_project_test.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguratorTester"><param name="Local" value="class_project_test_1_1_configurator_tester.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CarOptionsTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a88fe4c17e978120ba1e4913eaebe8402"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Compare"><param name="Local" value="class_project_test_1_1_configurator_tester.html#aa0ef4651ba1545c7c27d82c9e8f2c169"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCarTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a7ad3e51a0bedffcb1b71b7fcd48f7297"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCarTest2"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a4bb32164dd5bdefbd7fd43d20c83e6a1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbersTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a96caed18077514c269ba6e9349390cc5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="onlyNumbersTest2"><param name="Local" value="class_project_test_1_1_configurator_tester.html#abe3a3b876a51c73cce1cce95bfa6ca86"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RangeOrderNumber"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a62a20983c568bf7eacc563b6318b3797"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="global.SystemConfiguration.ApplicationSettingsBase"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Properties.Settings"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Car"><param name="Local" value="class_auto___configurator_1_1_car.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.CarFactory"><param name="Local" value="class_auto___configurator_1_1_car_factory.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectTest.ConfiguratorTester"><param name="Local" value="class_project_test_1_1_configurator_tester.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Program"><param name="Local" value="class_auto___configurator_1_1_program.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Properties.Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto Configurator"><param name="Local" value="dir_977c681f16b6af75376053359f74236a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="obj"><param name="Local" value="dir_3b55c12e74bae741293f1c54f0b1710b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Debug"><param name="Local" value="dir_eac7473e2a10bd9dd32d12136918cc56.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value=".NETFramework,Version=v4.7.2.AssemblyAttributes.cs"><param name="Local" value="_auto_01_configurator_2obj_2_debug_2_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="dir_11367519910338984b2ae15cb17bfdd7.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AssemblyInfo.cs"><param name="Local" value="_auto_01_configurator_2_properties_2_assembly_info_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources.Designer.cs"><param name="Local" value="_resources_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Properties.Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#a3b5ace276dab316266fdf0356793abd5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="resourceCulture"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#abd9a618b3f33ce097be1bb8733689ec5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="resourceMan"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#ab8f7df65c338fe0a4d81920efb8fa463"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Culture"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#ab7c3a4b5421647789c027d1410064e2d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ResourceManager"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_resources.html#a741658ba7e0064aa155ea405cc46ff2e"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Settings.Designer.cs"><param name="Local" value="_settings_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Properties.Settings"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="defaultInstance"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html#a6a5032fcb098fdf5213589a35b7c8aac"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Default"><param name="Local" value="class_auto___configurator_1_1_properties_1_1_settings.html#a90f8139aa977dad787e623434e7acdfc"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm.cs"><param name="Local" value="_main_form_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a3907c0e8971c16c2948b7d9934d937a8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AjutorToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afb2d74632c1f106697a7a9e7f1034804"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AudiButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a49920c344ee8a34e6fa99f67cda3cf6d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="colorSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5520b8c05ce1261412966e7102aa1551"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DespreToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#acfb058fbb078757eafe6f33c380c766e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a8b7cdea53e91362d78225603341d538a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Draw"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad82f8fa8ebc6d15aba1861685e733189"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abe8f5b520adcce57dfbe610a1d810f27"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbers"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a939e9b4eec986b7b6cf603c9025d6484"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Order_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a481d412fe44dcdb1d6e737ac0ab9dca9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa4c65adeab167771cfe450e4002f6abc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa8aedc24fd7ad0a25dfa7a94b0617188"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WheelSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af8fc64734f834daff561f8e456c050c5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ajutorToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab2de7ea36e7ad9725a63c7ffb8de1294"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab58e740f225838e1528103b638687e14"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bmp"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a37a55271fb623e4d4a878fed74cb3f06"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5b9815cde472f223a3d90ce830d49882"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ae0d2900ea6350fa39e201a140394098c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afaed3d903145934fe74c6e926cf3bf4f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a85c895cc3951e40640e8f278ce33ce76"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="car"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac89ab1694a9e953841a463f35283acda"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="components"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad1f4e61a6ae323f195044b765c09e773"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6b4760a5fcd0032c45a031ead399032a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac2f4624241141f5934db8bf3907bf831"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="despreToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a2131de820daf749a6d33e5a5a689fd7e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="factory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a421373a14f1b242a95f4d430702165d0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="firma"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac39248457222e8a6be128ab39cc580f8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab9b225a2acdf5e56b2c9345c15ba349d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af1e2d8af8cd405ce76376465e0ad3e1b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="label_History"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a21cd8fd9fee4d2666c140f806eed2996"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="listaComenzi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e7effd8966de1f97e3a83f22f5e4d05"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="menuStrip"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e6d033cf8e4113d7f6ecc44f735f93a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Order"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a01e12c829f213951eabc354276197885"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abff159e713f400dff6fe8b69a93db942"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e25dc350792df63889bc45d6e92f41e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad9ce590bea8907e9a4d24a53ea825a4b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e9fb02ad6e7bbb3c106b29d9ee22e39"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#adce088707fce0f0f67806bc36dd26626"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac76086479b0996c8d252bc8e764c49dc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TextAreaOrderHistory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a91a9ee1a909e39678be3f2b73cb03c75"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TextBoxID"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a7eacd88e3269dbebf5ed93f2aee1183c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a345be729bbcbb6056a9fdd961ad862c8"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm.Designer.cs"><param name="Local" value="_main_form_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MainForm"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a3907c0e8971c16c2948b7d9934d937a8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AjutorToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afb2d74632c1f106697a7a9e7f1034804"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AudiButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a49920c344ee8a34e6fa99f67cda3cf6d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="colorSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5520b8c05ce1261412966e7102aa1551"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DespreToolStripMenuItem_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#acfb058fbb078757eafe6f33c380c766e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a8b7cdea53e91362d78225603341d538a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Draw"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad82f8fa8ebc6d15aba1861685e733189"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InitializeComponent"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abe8f5b520adcce57dfbe610a1d810f27"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbers"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a939e9b4eec986b7b6cf603c9025d6484"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Order_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a481d412fe44dcdb1d6e737ac0ab9dca9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa4c65adeab167771cfe450e4002f6abc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton_Click"><param name="Local" value="class_auto___configurator_1_1_main_form.html#aa8aedc24fd7ad0a25dfa7a94b0617188"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WheelSelect"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af8fc64734f834daff561f8e456c050c5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ajutorToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab2de7ea36e7ad9725a63c7ffb8de1294"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="audiButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab58e740f225838e1528103b638687e14"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bmp"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a37a55271fb623e4d4a878fed74cb3f06"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a5b9815cde472f223a3d90ce830d49882"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneCuloriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ae0d2900ea6350fa39e201a140394098c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#afaed3d903145934fe74c6e926cf3bf4f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="butoaneJentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a85c895cc3951e40640e8f278ce33ce76"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="car"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac89ab1694a9e953841a463f35283acda"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="components"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad1f4e61a6ae323f195044b765c09e773"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6b4760a5fcd0032c45a031ead399032a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="culoriVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac2f4624241141f5934db8bf3907bf831"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="despreToolStripMenuItem"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a2131de820daf749a6d33e5a5a689fd7e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="factory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a421373a14f1b242a95f4d430702165d0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="firma"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac39248457222e8a6be128ab39cc580f8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ab9b225a2acdf5e56b2c9345c15ba349d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="jentiVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#af1e2d8af8cd405ce76376465e0ad3e1b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="label_History"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a21cd8fd9fee4d2666c140f806eed2996"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="listaComenzi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e7effd8966de1f97e3a83f22f5e4d05"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="menuStrip"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a6e6d033cf8e4113d7f6ecc44f735f93a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Order"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a01e12c829f213951eabc354276197885"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources"><param name="Local" value="class_auto___configurator_1_1_main_form.html#abff159e713f400dff6fe8b69a93db942"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e25dc350792df63889bc45d6e92f41e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedColorVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ad9ce590bea8907e9a4d24a53ea825a4b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelAudi"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a0e9fb02ad6e7bbb3c106b29d9ee22e39"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="selectedWheelVW"><param name="Local" value="class_auto___configurator_1_1_main_form.html#adce088707fce0f0f67806bc36dd26626"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowOrder"><param name="Local" value="class_auto___configurator_1_1_main_form.html#ac76086479b0996c8d252bc8e764c49dc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TextAreaOrderHistory"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a91a9ee1a909e39678be3f2b73cb03c75"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TextBoxID"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a7eacd88e3269dbebf5ed93f2aee1183c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="vwButton"><param name="Local" value="class_auto___configurator_1_1_main_form.html#a345be729bbcbb6056a9fdd961ad862c8"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Program.cs"><param name="Local" value="_program_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Program"><param name="Local" value="class_auto___configurator_1_1_program.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Main"><param name="Local" value="class_auto___configurator_1_1_program.html#adf0b2b01da3342b8a3d25f0f345e994a"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CarLibrary"><param name="Local" value="dir_d62758b591db78f0e1d1097f4778ca46.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="obj"><param name="Local" value="dir_75340973fd2cda75f9f1cdb6a684e92b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Debug"><param name="Local" value="dir_95755423c6f85e5f915d3b57d0076144.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value=".NETFramework,Version=v4.7.2.AssemblyAttributes.cs"><param name="Local" value="_car_library_2obj_2_debug_2_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="dir_84da2558681e2e7eba0e5c07591e4097.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AssemblyInfo.cs"><param name="Local" value="_car_library_2_properties_2_assembly_info_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Audi.cs"><param name="Local" value="_audi_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Audi"><param name="Local" value="class_auto___configurator_1_1_audi.html#aea13fd81c30db95c7e15377a2c30198c"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Car.cs"><param name="Local" value="_car_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Car"><param name="Local" value="class_auto___configurator_1_1_car.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Car"><param name="Local" value="class_auto___configurator_1_1_car.html#ad5fb11b2a8b1bca9fe24010d38273248"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetOptions"><param name="Local" value="class_auto___configurator_1_1_car.html#a55b191bf313b1e6fd5f5c9f06debafb8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetOrderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#a37dd3c58c80f516562f522ea89a7ebb3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetBrand"><param name="Local" value="class_auto___configurator_1_1_car.html#aeeea31148fcf673ce174d63965fb9039"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetOrderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#a2da4a8772e10bf2b687f87381011859b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="_brand"><param name="Local" value="class_auto___configurator_1_1_car.html#afebd997e288cbb7628ae7aa1cd665322"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="_options"><param name="Local" value="class_auto___configurator_1_1_car.html#a8f56a67ced825f4444bb3708acd4a12c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="orderNumber"><param name="Local" value="class_auto___configurator_1_1_car.html#aac9bd4f28d4231ef5e70231bcb60bdbc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="usedNumbers"><param name="Local" value="class_auto___configurator_1_1_car.html#ab114bcee2617babc5207589a3c42e5b2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Brand"><param name="Local" value="class_auto___configurator_1_1_car.html#a4b05e44de006757524ad35ce7d94bf55"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CarFactory.cs"><param name="Local" value="_car_factory_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.CarFactory"><param name="Local" value="class_auto___configurator_1_1_car_factory.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCar"><param name="Local" value="class_auto___configurator_1_1_car_factory.html#ab477a6d24fabc32df0b9f44dacfedc5a"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Volkswagen.cs"><param name="Local" value="_volkswagen_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Auto_Configurator.Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Volkswagen"><param name="Local" value="class_auto___configurator_1_1_volkswagen.html#a65db45d074fd0f09c04ca73657ed602d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectTest"><param name="Local" value="dir_3288c7d74cb841ce8bda1a593b8e7c66.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="obj"><param name="Local" value="dir_f41f34d4f3601fa66058fe3dc4cca829.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Debug"><param name="Local" value="dir_b1e05ba420e4024a7084ba09078c3a64.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value=".NETFramework,Version=v4.7.2.AssemblyAttributes.cs"><param name="Local" value="_project_test_2obj_2_debug_2_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="dir_2089805183dfa815e7b3fa6a1354529e.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AssemblyInfo.cs"><param name="Local" value="_project_test_2_properties_2_assembly_info_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfiguratorTester.cs"><param name="Local" value="_configurator_tester_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectTest.ConfiguratorTester"><param name="Local" value="class_project_test_1_1_configurator_tester.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CarOptionsTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a88fe4c17e978120ba1e4913eaebe8402"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Compare"><param name="Local" value="class_project_test_1_1_configurator_tester.html#aa0ef4651ba1545c7c27d82c9e8f2c169"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCarTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a7ad3e51a0bedffcb1b71b7fcd48f7297"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MakeCarTest2"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a4bb32164dd5bdefbd7fd43d20c83e6a1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnlyNumbersTest"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a96caed18077514c269ba6e9349390cc5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="onlyNumbersTest2"><param name="Local" value="class_project_test_1_1_configurator_tester.html#abe3a3b876a51c73cce1cce95bfa6ca86"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RangeOrderNumber"><param name="Local" value="class_project_test_1_1_configurator_tester.html#a62a20983c568bf7eacc563b6318b3797"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

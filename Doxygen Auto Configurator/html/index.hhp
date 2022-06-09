@@ -1,0 +1,97 @@
+[OPTIONS]
+Compiled file=AutoConfigurator.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Auto Configurator
+
+[WINDOWS]
+main="Auto Configurator","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_audi_8cs.html
+_auto_01_configurator_2_properties_2_assembly_info_8cs.html
+_auto_01_configurator_2obj_2_debug_2_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html
+_car_8cs.html
+_car_factory_8cs.html
+_car_library_2_properties_2_assembly_info_8cs.html
+_car_library_2obj_2_debug_2_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html
+_configurator_tester_8cs.html
+_main_form_8_designer_8cs.html
+_main_form_8cs.html
+_program_8cs.html
+_project_test_2_properties_2_assembly_info_8cs.html
+_project_test_2obj_2_debug_2_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html
+_resources_8_designer_8cs.html
+_settings_8_designer_8cs.html
+_volkswagen_8cs.html
+annotated.html
+class_auto___configurator_1_1_audi-members.html
+class_auto___configurator_1_1_audi.html
+class_auto___configurator_1_1_car-members.html
+class_auto___configurator_1_1_car.html
+class_auto___configurator_1_1_car_factory-members.html
+class_auto___configurator_1_1_car_factory.html
+class_auto___configurator_1_1_main_form-members.html
+class_auto___configurator_1_1_main_form.html
+class_auto___configurator_1_1_program-members.html
+class_auto___configurator_1_1_program.html
+class_auto___configurator_1_1_properties_1_1_resources-members.html
+class_auto___configurator_1_1_properties_1_1_resources.html
+class_auto___configurator_1_1_properties_1_1_settings-members.html
+class_auto___configurator_1_1_properties_1_1_settings.html
+class_auto___configurator_1_1_volkswagen-members.html
+class_auto___configurator_1_1_volkswagen.html
+class_project_test_1_1_configurator_tester-members.html
+class_project_test_1_1_configurator_tester.html
+classes.html
+dir_11367519910338984b2ae15cb17bfdd7.html
+dir_2089805183dfa815e7b3fa6a1354529e.html
+dir_3288c7d74cb841ce8bda1a593b8e7c66.html
+dir_3b55c12e74bae741293f1c54f0b1710b.html
+dir_75340973fd2cda75f9f1cdb6a684e92b.html
+dir_84da2558681e2e7eba0e5c07591e4097.html
+dir_95755423c6f85e5f915d3b57d0076144.html
+dir_977c681f16b6af75376053359f74236a.html
+dir_b1e05ba420e4024a7084ba09078c3a64.html
+dir_d62758b591db78f0e1d1097f4778ca46.html
+dir_eac7473e2a10bd9dd32d12136918cc56.html
+dir_f41f34d4f3601fa66058fe3dc4cca829.html
+files.html
+functions.html
+functions_func.html
+functions_prop.html
+functions_vars.html
+hierarchy.html
+index.html
+namespace_auto___configurator.html
+namespace_auto___configurator_1_1_properties.html
+namespace_project_test.html
+namespaces.html
+bc_s.png
+bdwn.png
+class_auto___configurator_1_1_audi.png
+class_auto___configurator_1_1_car.png
+class_auto___configurator_1_1_main_form.png
+class_auto___configurator_1_1_properties_1_1_settings.png
+class_auto___configurator_1_1_volkswagen.png
+closed.png
+doc.png
+doxygen.svg
+folderclosed.png
+folderopen.png
+nav_f.png
+nav_g.png
+nav_h.png
+open.png
+splitbar.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png

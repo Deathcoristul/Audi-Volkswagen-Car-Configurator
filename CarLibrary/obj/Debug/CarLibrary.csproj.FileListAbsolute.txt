@@ -1,0 +1,12 @@
+E:\Facultate\IP\proiect\Auto Configurator\CarLibrary\bin\Debug\CarLibrary.dll
+E:\Facultate\IP\proiect\Auto Configurator\CarLibrary\bin\Debug\CarLibrary.pdb
+E:\Facultate\IP\proiect\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+E:\Facultate\IP\proiect\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.dll
+E:\Facultate\IP\proiect\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.pdb
+E:\Facultate\IP\proiect\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\CarLibrary\obj\Debug\CarLibrary.pdb

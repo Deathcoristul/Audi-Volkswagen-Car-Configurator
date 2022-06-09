@@ -1,0 +1,38 @@
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\ProjectTest.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\ProjectTest.pdb
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Auto Configurator.exe
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\CarLibrary.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Auto Configurator.pdb
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Auto Configurator.exe.config
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\CarLibrary.pdb
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.csproj.AssemblyReference.cache
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.csproj.CoreCompileInputs.cache
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.csproj.CopyComplete
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.dll
+E:\Facultate\IP\proiect\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\ProjectTest.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\ProjectTest.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Auto Configurator.exe
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\CarLibrary.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Auto Configurator.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Auto Configurator.exe.config
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\CarLibrary.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.csproj.AssemblyReference.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.csproj.CopyComplete
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\ProjectTest\obj\Debug\ProjectTest.pdb

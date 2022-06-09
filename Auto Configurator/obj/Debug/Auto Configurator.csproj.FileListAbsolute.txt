@@ -1,0 +1,40 @@
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.exe.config
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.exe
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.pdb
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.AssemblyReference.cache
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto_Configurator.MainForm.resources
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto_Configurator.Properties.Resources.resources
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.GenerateResource.cache
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.CoreCompileInputs.cache
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.exe
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.pdb
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.CopyComplete
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\bin\Debug\CarLibrary.dll
+E:\Facultate\IP\proiect\Auto Configurator\Auto Configurator\bin\Debug\CarLibrary.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.exe.config
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.exe
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\bin\Debug\CarLibrary.dll
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\bin\Debug\CarLibrary.pdb
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.AssemblyReference.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto_Configurator.MainForm.resources
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto_Configurator.Properties.Resources.resources
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.GenerateResource.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.CoreCompileInputs.cache
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.CopyComplete
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.exe
+C:\Users\sebir\OneDrive\Desktop\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.pdb
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.exe.config
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.exe
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\bin\Debug\Auto Configurator.pdb
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\bin\Debug\CarLibrary.dll
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\bin\Debug\CarLibrary.pdb
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.AssemblyReference.cache
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto_Configurator.MainForm.resources
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto_Configurator.Properties.Resources.resources
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.GenerateResource.cache
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.CoreCompileInputs.cache
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.csproj.CopyComplete
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.exe
+E:\Facultate\IP\proiect\Auto-Configurator\Auto Configurator\Auto Configurator\obj\Debug\Auto Configurator.pdb
